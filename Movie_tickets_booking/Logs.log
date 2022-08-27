@@ -1,0 +1,184 @@
+146 INFO 2022-08-23 12:02:12,353 views 35980 37336 'Started the booking process'
+146 INFO 2022-08-23 12:02:17,339 views 35980 37336 'Started the booking process'
+146 INFO 2022-08-23 12:02:18,575 views 35980 37336 'Started the booking process'
+146 INFO 2022-08-23 12:02:58,367 views 35980 37336 'Started the booking process'
+25 DEBUG 2022-08-23 12:04:38,154 expired_shows 38052 1958499394736 celery background task started functioning for 1 min
+25 DEBUG 2022-08-23 12:04:38,166 expired_shows 38052 1958499662864 celery background task started functioning for 1 min
+25 DEBUG 2022-08-23 12:04:38,176 expired_shows 38052 1958499799056 celery background task started functioning for 1 min
+25 DEBUG 2022-08-23 12:04:38,185 expired_shows 38052 1958499803632 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:04:38,378 expired_shows 38052 1958499803632 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 12:05:00,624 views 35980 37336 'Started the booking process'
+25 DEBUG 2022-08-23 12:06:00,652 expired_shows 38052 1958450767376 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:06:00,778 expired_shows 38052 1958450767376 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 12:06:07,691 views 35980 37336 'Started the booking process'
+146 INFO 2022-08-23 12:06:21,864 views 35980 37336 'Started the booking process'
+174 ERROR 2022-08-23 12:06:21,882 views 35980 37336 'Seat is already booked'
+146 INFO 2022-08-23 12:06:39,584 views 35980 37336 'Started the booking process'
+25 DEBUG 2022-08-23 12:07:07,713 expired_shows 38052 1958500276480 celery background task started functioning for 1 min
+25 DEBUG 2022-08-23 12:07:39,613 expired_shows 38052 1958409278512 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:07:39,793 expired_shows 38052 1958409278512 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 12:08:16,093 views 33796 35896 'Started the booking process'
+25 DEBUG 2022-08-23 12:09:16,154 expired_shows 38052 1958498695328 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:09:16,233 expired_shows 38052 1958498695328 celery background task finished functioning for 1 min
+25 DEBUG 2022-08-23 12:13:30,860 expired_shows 38052 1958499389280 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:13:30,919 expired_shows 38052 1958499389280 celery background task finished functioning for 1 min
+25 DEBUG 2022-08-23 12:16:50,732 expired_shows 38052 1958450767376 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:16:50,820 expired_shows 38052 1958450767376 celery background task finished functioning for 1 min
+25 DEBUG 2022-08-23 12:18:29,738 expired_shows 38052 1958500284224 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:18:29,830 expired_shows 38052 1958500284224 celery background task finished functioning for 1 min
+25 DEBUG 2022-08-23 12:19:32,333 expired_shows 38052 1958499001168 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:19:32,405 expired_shows 38052 1958499001168 celery background task finished functioning for 1 min
+25 DEBUG 2022-08-23 12:20:20,580 expired_shows 38052 1958479727952 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:20:20,779 expired_shows 38052 1958479727952 celery background task finished functioning for 1 min
+25 DEBUG 2022-08-23 12:20:51,381 expired_shows 38052 1958498995008 celery background task started functioning for 1 min
+146 INFO 2022-08-23 12:21:48,835 views 37496 34164 'Started the booking process'
+174 ERROR 2022-08-23 12:21:48,860 views 37496 34164 'Seat is already booked'
+146 INFO 2022-08-23 12:05:43,663 views 13 140428552813368 'Started the booking process'
+174 ERROR 2022-08-23 12:05:43,676 views 13 140428552813368 'Show matching query does not exist.'
+146 INFO 2022-08-23 12:06:04,409 views 13 140428552813368 'Started the booking process'
+25 DEBUG 2022-08-23 12:07:04,505 expired_shows 1 140222913986624 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:07:04,553 expired_shows 1 140222913986624 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 12:09:55,345 views 13 140428552813368 'Started the booking process'
+25 DEBUG 2022-08-23 12:10:55,416 expired_shows 1 140222913987152 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 12:10:55,473 expired_shows 1 140222913987152 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 13:01:21,311 views 11 140624962067256 'Started the booking process'
+25 DEBUG 2022-08-23 13:02:21,387 expired_shows 1 140409592010480 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 13:02:21,412 expired_shows 1 140409592010480 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 13:02:31,297 views 11 140624962067256 'Started the booking process'
+25 DEBUG 2022-08-23 13:03:31,358 expired_shows 1 140409591790256 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 13:03:31,380 expired_shows 1 140409591790256 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 13:05:15,365 views 22 140069101407032 'Started the booking process'
+174 ERROR 2022-08-23 13:05:15,383 views 22 140069101407032 'Seat is already booked'
+146 INFO 2022-08-23 13:05:28,113 views 22 140069101407032 'Started the booking process'
+25 DEBUG 2022-08-23 13:06:28,178 expired_shows 1 140409591785152 celery background task started functioning for 1 min
+41 DEBUG 2022-08-23 13:06:28,211 expired_shows 1 140409591785152 celery background task finished functioning for 1 min
+146 INFO 2022-08-23 13:06:34,124 views 33 139726547872568 'Started the booking process'
+25 DEBUG 2022-08-24 08:44:43,307 expired_shows 1 140080802863360 celery background task started functioning for 1 min
+41 DEBUG 2022-08-24 08:44:43,415 expired_shows 1 140080802863360 celery background task finished functioning for 1 min
+146 INFO 2022-08-24 08:59:42,381 views 11 139982060702520 'Started the booking process'
+174 ERROR 2022-08-24 08:59:42,392 views 11 139982060702520 'Seat is already booked'
+146 INFO 2022-08-24 09:00:11,734 views 11 139982060702520 'Started the booking process'
+25 DEBUG 2022-08-24 09:01:11,788 expired_shows 1 140024670764576 celery background task started functioning for 1 min
+41 DEBUG 2022-08-24 09:01:11,827 expired_shows 1 140024670764576 celery background task finished functioning for 1 min
+146 INFO 2022-08-24 09:01:57,254 views 19 140113210030904 'Started the booking process'
+25 DEBUG 2022-08-24 09:02:57,305 expired_shows 1 140024672578624 celery background task started functioning for 1 min
+41 DEBUG 2022-08-24 09:02:57,370 expired_shows 1 140024672578624 celery background task finished functioning for 1 min
+146 INFO 2022-08-24 09:20:45,428 views 11 140216367164216 'Started the booking process'
+175 ERROR 2022-08-24 09:20:45,438 views 11 140216367164216 'Seat is already booked'
+146 INFO 2022-08-24 13:09:19,280 views 889 140653089299256 'Started the booking process'
+175 ERROR 2022-08-24 13:09:19,293 views 889 140653089299256 'Seat is already booked'
+146 INFO 2022-08-24 13:09:44,367 views 889 140653089299256 'Started the booking process'
+25 DEBUG 2022-08-24 13:10:44,428 expired_shows 1 140308652622944 celery background task started functioning for 1 min
+41 DEBUG 2022-08-24 13:10:44,446 expired_shows 1 140308652622944 celery background task finished functioning for 1 min
+146 INFO 2022-08-24 13:11:37,932 views 971 140606406241080 'Started the booking process'
+25 DEBUG 2022-08-24 13:12:37,991 expired_shows 1 140308732061904 celery background task started functioning for 1 min
+41 DEBUG 2022-08-24 13:12:38,014 expired_shows 1 140308732061904 celery background task finished functioning for 1 min
+146 INFO 2022-08-24 13:23:31,957 views 317 140188769372984 'Started the booking process'
+25 DEBUG 2022-08-25 03:45:06,091 expired_shows 1 139756147202656 celery background task started functioning for 1 min
+41 DEBUG 2022-08-25 03:45:06,229 expired_shows 1 139756147202656 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 03:53:13,458 views 270 140038071379520 'Started the booking process'
+175 ERROR 2022-08-25 03:53:13,472 views 270 140038071379520 'Seat is already booked'
+146 INFO 2022-08-25 03:53:28,266 views 270 140038071379520 'Started the booking process'
+25 DEBUG 2022-08-25 03:54:28,375 expired_shows 1 140418443318144 celery background task started functioning for 1 min
+41 DEBUG 2022-08-25 03:54:28,402 expired_shows 1 140418443318144 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 03:54:32,946 views 307 140548937590336 'Started the booking process'
+25 DEBUG 2022-08-25 03:55:33,046 expired_shows 1 140418341621600 celery background task started functioning for 1 min
+41 DEBUG 2022-08-25 03:55:33,076 expired_shows 1 140418341621600 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 03:59:15,620 views 37 140090725611072 'Started the booking process'
+25 DEBUG 2022-08-25 04:17:52,338 expired_shows 1 140557665962464 celery background task started functioning for 1 min
+65 INFO 2022-08-25 04:17:52,405 booking_conf 1 140557664165680 'tickets=>>>'
+66 INFO 2022-08-25 04:17:52,407 booking_conf 1 140557664165680 [1]
+41 DEBUG 2022-08-25 04:17:52,574 expired_shows 1 140557665962464 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 04:18:16,094 views 37 140563391034944 'Started the booking process'
+175 ERROR 2022-08-25 04:18:16,108 views 37 140563391034944 'Seat is already booked'
+146 INFO 2022-08-25 04:18:36,410 views 37 140563391034944 'Started the booking process'
+25 DEBUG 2022-08-25 04:19:36,525 expired_shows 1 140557665794736 celery background task started functioning for 1 min
+41 DEBUG 2022-08-25 04:19:36,584 expired_shows 1 140557665794736 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 04:19:49,210 views 73 139696390780480 'Started the booking process'
+65 INFO 2022-08-25 04:20:00,801 booking_conf 1 140557717655392 'tickets=>>>'
+66 INFO 2022-08-25 04:20:00,803 booking_conf 1 140557717655392 [1]
+25 DEBUG 2022-08-25 04:20:49,322 expired_shows 1 140557665571536 celery background task started functioning for 1 min
+41 DEBUG 2022-08-25 04:20:49,345 expired_shows 1 140557665571536 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 04:25:16,850 views 255 139987278362176 'Started the booking process'
+146 INFO 2022-08-25 04:25:25,530 views 255 139987278362176 'Started the booking process'
+175 ERROR 2022-08-25 04:25:25,547 views 255 139987278362176 'Seat is already booked'
+65 INFO 2022-08-25 04:25:37,581 booking_conf 1 140557664166736 'tickets=>>>'
+66 INFO 2022-08-25 04:25:37,584 booking_conf 1 140557664166736 [1]
+25 DEBUG 2022-08-25 04:26:16,973 expired_shows 1 140557663463104 celery background task started functioning for 1 min
+41 DEBUG 2022-08-25 04:26:17,002 expired_shows 1 140557663463104 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 04:27:11,343 views 320 139789567256128 'Started the booking process'
+65 INFO 2022-08-25 04:27:23,821 booking_conf 1 140557719851024 'tickets=>>>'
+66 INFO 2022-08-25 04:27:23,822 booking_conf 1 140557719851024 [1]
+25 DEBUG 2022-08-25 04:28:11,470 expired_shows 1 140557665296528 celery background task started functioning for 1 min
+41 DEBUG 2022-08-25 04:28:11,498 expired_shows 1 140557665296528 celery background task finished functioning for 1 min
+146 INFO 2022-08-25 04:29:44,002 views 37 140196188255808 'Started the booking process'
+65 INFO 2022-08-25 04:29:54,551 booking_conf 1 139864131540016 'tickets=>>>'
+66 INFO 2022-08-25 04:29:54,552 booking_conf 1 139864131540016 [1]
+25 DEBUG 2022-08-26 04:04:06,373 expired_shows 1 140176132439408 celery background task started functioning for 1 min
+41 DEBUG 2022-08-26 04:04:06,500 expired_shows 1 140176132439408 celery background task finished functioning for 1 min
+146 INFO 2022-08-26 04:04:29,997 views 37 139870482712128 'Started the booking process'
+65 INFO 2022-08-26 04:04:40,497 booking_conf 1 140176133233072 'tickets=>>>'
+66 INFO 2022-08-26 04:04:40,497 booking_conf 1 140176133233072 [1]
+25 DEBUG 2022-08-26 04:06:10,163 expired_shows 1 140027653820080 celery background task started functioning for 1 min
+41 DEBUG 2022-08-26 04:06:10,272 expired_shows 1 140027653820080 celery background task finished functioning for 1 min
+146 INFO 2022-08-26 04:09:45,746 views 37 139640967251520 'Started the booking process'
+65 INFO 2022-08-26 04:09:53,710 booking_conf 1 140027723282592 'tickets=>>>'
+66 INFO 2022-08-26 04:09:53,711 booking_conf 1 140027723282592 [1]
+25 DEBUG 2022-08-26 04:10:45,817 expired_shows 1 140027651996512 celery background task started functioning for 1 min
+41 DEBUG 2022-08-26 04:10:45,860 expired_shows 1 140027651996512 celery background task finished functioning for 1 min
+146 INFO 2022-08-26 04:17:39,024 views 141 139642149152320 'Started the booking process'
+65 INFO 2022-08-26 04:17:46,797 booking_conf 1 140027658334304 'tickets=>>>'
+66 INFO 2022-08-26 04:17:46,798 booking_conf 1 140027658334304 [1]
+25 DEBUG 2022-08-26 04:23:27,955 expired_shows 1 139936854050064 celery background task started functioning for 1 min
+41 DEBUG 2022-08-26 04:23:27,996 expired_shows 1 139936854050064 celery background task finished functioning for 1 min
+146 INFO 2022-08-26 04:25:58,354 views 84 140229600077376 'Started the booking process'
+65 INFO 2022-08-26 04:26:06,414 booking_conf 1 140442636655728 'tickets=>>>'
+66 INFO 2022-08-26 04:26:06,415 booking_conf 1 140442636655728 [1]
+25 DEBUG 2022-08-26 04:26:58,550 expired_shows 1 140442634873392 celery background task started functioning for 1 min
+41 DEBUG 2022-08-26 04:26:58,584 expired_shows 1 140442634873392 celery background task finished functioning for 1 min
+146 INFO 2022-08-27 15:10:02,304 views 38 139852410496576 'Started the booking process'
+175 ERROR 2022-08-27 15:10:02,310 views 38 139852410496576 'Show is not active'
+146 INFO 2022-08-27 15:10:27,940 views 38 139852410496576 'Started the booking process'
+175 ERROR 2022-08-27 15:10:28,055 views 38 139852410496576 'insert or update on table "Movie_booking_app_booking_seats" violates foreign key constraint "Movie_booking_app_bo_cinemahallseat_id_d9e80eeb_fk_Movie_boo"
+DETAIL:  Key (cinemahallseat_id)=(1) is not present in table "Movie_booking_app_cinemahallseat".
+'
+146 INFO 2022-08-27 15:11:14,279 views 38 139852410496576 'Started the booking process'
+175 ERROR 2022-08-27 15:11:14,318 views 38 139852410496576 'insert or update on table "Movie_booking_app_booking_seats" violates foreign key constraint "Movie_booking_app_bo_cinemahallseat_id_d9e80eeb_fk_Movie_boo"
+DETAIL:  Key (cinemahallseat_id)=(1) is not present in table "Movie_booking_app_cinemahallseat".
+'
+25 DEBUG 2022-08-27 15:11:28,011 expired_shows 1 140195040262480 celery background task started functioning for 1 min
+25 DEBUG 2022-08-27 15:12:14,310 expired_shows 1 140195041877456 celery background task started functioning for 1 min
+146 INFO 2022-08-27 15:12:22,539 views 38 139852410496576 'Started the booking process'
+175 ERROR 2022-08-27 15:12:22,585 views 38 139852410496576 'insert or update on table "Movie_booking_app_booking_seats" violates foreign key constraint "Movie_booking_app_bo_cinemahallseat_id_d9e80eeb_fk_Movie_boo"
+DETAIL:  Key (cinemahallseat_id)=(1) is not present in table "Movie_booking_app_cinemahallseat".
+'
+25 DEBUG 2022-08-27 15:13:22,574 expired_shows 1 140195040744320 celery background task started functioning for 1 min
+146 INFO 2022-08-27 15:14:08,838 views 38 139852410496576 'Started the booking process'
+65 INFO 2022-08-27 15:14:18,020 booking_conf 1 140195040745024 'tickets=>>>'
+66 INFO 2022-08-27 15:14:18,021 booking_conf 1 140195040745024 [4]
+25 DEBUG 2022-08-27 15:15:08,874 expired_shows 1 140195016784560 celery background task started functioning for 1 min
+41 DEBUG 2022-08-27 15:15:08,951 expired_shows 1 140195016784560 celery background task finished functioning for 1 min
+146 INFO 2022-08-27 15:18:41,690 views 74 140408688322112 'Started the booking process'
+25 DEBUG 2022-08-27 15:19:41,738 expired_shows 1 140195040260192 celery background task started functioning for 1 min
+41 DEBUG 2022-08-27 15:19:41,830 expired_shows 1 140195040260192 celery background task finished functioning for 1 min
+146 INFO 2022-08-27 15:20:49,853 views 252 140155750078016 'Started the booking process'
+65 INFO 2022-08-27 15:21:45,157 booking_conf 1 140195180746832 'tickets=>>>'
+66 INFO 2022-08-27 15:21:45,158 booking_conf 1 140195180746832 [4]
+25 DEBUG 2022-08-27 15:21:49,912 expired_shows 1 140195151565168 celery background task started functioning for 1 min
+41 DEBUG 2022-08-27 15:21:49,990 expired_shows 1 140195151565168 celery background task finished functioning for 1 min
+146 INFO 2022-08-27 15:22:50,923 views 252 140155750078016 'Started the booking process'
+175 ERROR 2022-08-27 15:22:50,931 views 252 140155750078016 'Seat is already booked'
+146 INFO 2022-08-27 15:23:05,665 views 252 140155750078016 'Started the booking process'
+65 INFO 2022-08-27 15:23:12,690 booking_conf 1 140195039418976 'tickets=>>>'
+66 INFO 2022-08-27 15:23:12,691 booking_conf 1 140195039418976 [4]
+25 DEBUG 2022-08-27 15:24:05,705 expired_shows 1 140195159829568 celery background task started functioning for 1 min
+41 DEBUG 2022-08-27 15:24:05,744 expired_shows 1 140195159829568 celery background task finished functioning for 1 min
+146 INFO 2022-08-27 15:46:36,299 views 113 140097068463680 'Started the booking process'
+87 INFO 2022-08-27 15:46:43,429 booking_conf 1 140455867527968 'tickets=>>>'
+88 INFO 2022-08-27 15:46:43,430 booking_conf 1 140455867527968 [4]
+25 DEBUG 2022-08-27 15:47:36,386 expired_shows 1 140455869005168 celery background task started functioning for 1 min
+41 DEBUG 2022-08-27 15:47:36,468 expired_shows 1 140455869005168 celery background task finished functioning for 1 min
+86 INFO 2022-08-27 16:32:31,257 booking_conf 1 140457168270112 'tickets=>>>'
+87 INFO 2022-08-27 16:32:31,258 booking_conf 1 140457168270112 [4]
+86 INFO 2022-08-27 16:34:19,979 booking_conf 1 140457040288880 'tickets=>>>'
+87 INFO 2022-08-27 16:34:19,980 booking_conf 1 140457040288880 [4]
